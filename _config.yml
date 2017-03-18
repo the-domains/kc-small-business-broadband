@@ -1,0 +1,33 @@
+typography_spectrum: 0.6299198737833649
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#354F65'
+    - '#D8EAEF'
+    - '#3E566B'
+    - '#9BB0BB'
+  brandStrength: 0.6065084582660347
+  lightness: 0.48275494552217424
+  saturation: 0.010703537613153458
+  rhythmicContrast: 0.9891129522584379
+layout_spectrum: 0.9783948194235563
+name: KC Small Business Broadband
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Small Business Broadband Grants
+    id: 145087c6-3bdd-4a0a-a3dd-9076db2e7a7d
+    type: content
+title: KC Small Business Broadband
+content: []
+description: Friendly Small Business Internet & Phone
+purpose:
+  - type: contact
+    url: 'mailto:chris@karmacomputing.co.uk'
+    label: Enquire Now
+github: true
